@@ -2,5 +2,15 @@
 
 public class Water
 {
-    public int AmountOfWater { get; set; }
+    public int AmountOfWater
+    {
+        get
+        {
+            return 1;
+        } 
+        set
+        {
+            
+        }
+    }
 }
