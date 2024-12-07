@@ -3,6 +3,7 @@
 public abstract class Coffee
 {
 
-     public abstract Coffee CreateCoffee();
+     public abstract void CreateCoffee();
+     public abstract void PrintCoffee();
 
 }
