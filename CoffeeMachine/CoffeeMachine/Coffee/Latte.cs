@@ -9,7 +9,7 @@ namespace CoffeeMachine.Coffee
 {
     public class Latte : Coffee
     {
-        private string _name;
+        private string _name="Latte";
         private double _amountOfCoffee;
         private CoffeeBeans _coffeeBeans;
         private Milk _milk;
