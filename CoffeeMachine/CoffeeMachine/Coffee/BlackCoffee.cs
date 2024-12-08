@@ -23,6 +23,6 @@ public class BlackCoffee : Coffee
 
     public override void PrintCoffee()
     {
-        Console.WriteLine($"{_amountOfCoffee} {name} готов");
+        Console.WriteLine($"{_amountOfCoffee} мл {name} готов");
     }
 }

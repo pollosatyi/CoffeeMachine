@@ -14,13 +14,14 @@ public class MenuCoffeeMachine
                 continue;
             }
 
-            if (numberOfCoffee == 0) break;
+            if (numberOfCoffee == 0){Console.WriteLine("Выход из программы"); break;}
             if (numberOfCoffee < 0 || numberOfCoffee > 5)
             {
                 Console.WriteLine("Такой команды нет");
                 continue;
             }
             CreateCoffee createCoffee=new CreateCoffee(numberOfCoffee);
+            createCoffee.ChooseCreateCoffee();
         }
         
     }

@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Восстановление в main");
+        MenuCoffeeMachine.Menu();
     }
 }
