@@ -52,8 +52,6 @@ public class CreateCoffee
                     _coffee = new Coffee.Latte(coffeeBeans,milk,water, sugar);
                     break;
                 }
-
-
         }
         MakingCoffee();
     }
