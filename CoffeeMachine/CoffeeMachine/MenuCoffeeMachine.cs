@@ -22,9 +22,12 @@ public class MenuCoffeeMachine
             }
             CreateCoffee createCoffee=new CreateCoffee(numberOfCoffee);
             createCoffee.ChooseCreateCoffee();
+            Console.WriteLine("Хотите еще заказать кофе?");
         }
         
     }
+
+
 
     private static void Print()
     {
