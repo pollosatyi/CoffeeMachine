@@ -22,12 +22,29 @@ public class MenuCoffeeMachine
             }
             CreateCoffee createCoffee=new CreateCoffee(numberOfCoffee);
             createCoffee.ChooseCreateCoffee();
-            Console.WriteLine("Хотите еще заказать кофе?");
+            PrintAnotherOrder();
+            if (IsAnotherOrder()) { Console.WriteLine("Выход из программы"); break; }
+
         }
         
     }
 
+    private static void PrintAnotherOrder()
+    {
+        Console.WriteLine("Хотите еще заказать кофе?");
+        Console.WriteLine("0 для выхода из программы");
+        Console.WriteLine("любой символ для еще одного заказа");
+    }
 
+
+    private static bool IsAnotherOrder()
+    {
+       if( !int.TryParse(Console.ReadLine(), out int numberOfOrder)) return false;
+       return numberOfOrder==0;
+
+    }
+  
+   
 
     private static void Print()
     {
