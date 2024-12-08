@@ -26,7 +26,7 @@ namespace CoffeeMachine.Coffee
 
         public override void CreateCoffee()
         {
-            _amountOfCoffee = _beans.AmountOfBeans * 89 + _water.AmountOfWater * 9 + _sugar.AmountOfSugar * 2;
+            _amountOfCoffee = _beans.AmountOfBeans * 10 + _water.AmountOfWater * 88 + _sugar.AmountOfSugar * 2;
         }
 
         public override void PrintCoffee()
