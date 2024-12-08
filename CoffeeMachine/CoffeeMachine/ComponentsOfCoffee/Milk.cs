@@ -2,7 +2,7 @@
 
 public class Milk
 {
-    public int AmountOfSugar
+    public int AmountOfMilk
     {
         get
         {
