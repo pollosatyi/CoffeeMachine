@@ -39,7 +39,8 @@ public class MenuCoffeeMachine
 
     private static bool IsAnotherOrder()
     {
-       if( !int.TryParse(Console.ReadLine(), out int numberOfOrder)) return false;
+       if( !int.TryParse(Console.ReadLine(), out int numberOfOrder)) 
+       return false;
        return numberOfOrder==0;
 
     }
