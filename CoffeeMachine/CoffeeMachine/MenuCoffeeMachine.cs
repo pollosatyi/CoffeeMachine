@@ -22,9 +22,12 @@ public class MenuCoffeeMachine
             }
             CreateCoffee createCoffee=new CreateCoffee(numberOfCoffee);
             createCoffee.ChooseCreateCoffee();
+            Console.WriteLine("Хотите еще заказать кофе?");
         }
         
     }
+
+
 
     private static void Print()
     {
@@ -33,8 +36,8 @@ public class MenuCoffeeMachine
             "Нажмите 0 для выхода\n" +
             "1 - для приготовления черного кофе\n" +
             "2 - черного кофе с сахаром\n" +
-            "3 - капучино\n " +
+            "3 - капучино\n" +
             "4 - капучино с сахаром\n" +
-            "5 - латте ");
+            "5 - латте");
     }
 }

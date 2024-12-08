@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\menucoffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\createcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\createcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\componentsofcoffee\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\componentsofcoffee\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\coffee\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\coffee\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\componentsofcoffee\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\componentsofcoffee\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\componentsofcoffee\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\componentsofcoffee\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\componentsofcoffee\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\componentsofcoffee\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\user\\riderprojects\\coffeemachine\\coffeemachine\\coffeemachine\\componentsofcoffee\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\componentsofcoffee\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\createcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\createcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\componentsofcoffee\\coffeebeans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\componentsofcoffee\\coffeebeans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\coffeemachine\\coffee\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA6D233-FA78-4B65-B83F-F98E3D8A5400}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\coffee\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +62,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "CoffeeBeans.cs",
+              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\CoffeeBeans.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\ComponentsOfCoffee\\CoffeeBeans.cs",
+              "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\CoffeeBeans.cs",
+              "RelativeToolTip": "CoffeeMachine\\ComponentsOfCoffee\\CoffeeBeans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:35:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CreateCoffee.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CreateCoffee.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\CreateCoffee.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CreateCoffee.cs",
               "RelativeToolTip": "CoffeeMachine\\CreateCoffee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:29:59.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:29:59.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Coffee.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\Coffee\\Coffee.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\Coffee\\Coffee.cs",
@@ -79,38 +94,35 @@
               "RelativeToolTip": "CoffeeMachine\\Coffee\\Coffee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:28:33.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:28:33.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Milk.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\Milk.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\ComponentsOfCoffee\\Milk.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\Milk.cs",
               "RelativeToolTip": "CoffeeMachine\\ComponentsOfCoffee\\Milk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:28:31.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:28:31.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Sugar.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\Sugar.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\ComponentsOfCoffee\\Sugar.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\Sugar.cs",
               "RelativeToolTip": "CoffeeMachine\\ComponentsOfCoffee\\Sugar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:28:30.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:28:30.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Water.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\ComponentsOfCoffee\\Water.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\ComponentsOfCoffee\\Water.cs",
@@ -127,25 +139,24 @@
               "Title": "MenuCoffeeMachine.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\MenuCoffeeMachine.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\MenuCoffeeMachine.cs",
-              "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\MenuCoffeeMachine.cs*",
-              "RelativeToolTip": "CoffeeMachine\\MenuCoffeeMachine.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAIAAAA",
+              "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\MenuCoffeeMachine.cs",
+              "RelativeToolTip": "CoffeeMachine\\MenuCoffeeMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T11:28:19.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\Program.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\Program.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\Program.cs",
               "RelativeToolTip": "CoffeeMachine\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:28:14.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:28:14.952Z"
             }
           ]
         }

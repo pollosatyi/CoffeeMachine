@@ -2,5 +2,14 @@
 
 public class Sugar
 {
-    public int AmountOfSugar{get;set;}
+    public int AmountOfSugar
+    {
+        get
+        {
+            return 1;
+        }
+        set
+        {
+        }
+    }
 }
